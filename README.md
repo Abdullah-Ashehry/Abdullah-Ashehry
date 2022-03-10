@@ -15,10 +15,10 @@ Contact me on Twitter <img height="32" width="32" src="https://unpkg.com/simple-
 
 
 <a href="https://github.com/Abdullah-Ashehry/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry&show_icons=true&hide_border=true&&count_private=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry&show_icons=true&hide_border=true&&count_private=true&theme=algolia" />
 </a>
 <a href="https://github.com/Abdullah-Ashehry/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Abdullah_Ashehry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Abdullah_Ashehry" />
 </a>
 
 
