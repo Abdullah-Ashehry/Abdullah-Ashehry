@@ -49,11 +49,11 @@ Programming Languages:
 
 
 <!--  Stats Section -->
-<a href="https://github.com/Abdullah-Ashehry/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry&show_icons=true&hide_border=true&&count_private=true&theme=algolia" />
 <br><br>
 </a>
-<a href="https://github.com/Abdullah-Ashehry/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Abdullah_Ashehry&theme=algolia&hide_border=true" />
 </a>
 
