@@ -6,6 +6,9 @@
 
 - 🔭 I’m currently working on my graduation project, which will be in Flutter and React.
 - 📫 How to reach me: ashehry.abdullah@gmail.com
+- 📫 How to reach me: ashehry.abdullah@gmail.com
+- 📫 How to reach me: ashehry.abdullah@gmail.com
+- 📫 How to reach me: ashehry.abdullah@gmail.com
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
