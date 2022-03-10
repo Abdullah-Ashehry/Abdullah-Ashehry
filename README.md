@@ -11,17 +11,16 @@
 
 <img align="right" height="180em" src="https://user-images.githubusercontent.com/55896862/157664272-55b0134d-9899-4cfa-a00a-caf72758de64.svg" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry&show_icons=true&hide_border=true&&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry&show_icons=true&hide_border=true&&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact me on Twitter <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" />
 
 
 <a href="https://github.com/Abdullah-Ashehry/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry&show_icons=true&hide_border=true&&count_private=true&theme=algolia" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry&show_icons=true&hide_border=true&&count_private=true&theme=algolia" />
 </a>
 <a href="https://github.com/Abdullah-Ashehry/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Abdullah_Ashehry" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Abdullah_Ashehry" />
 </a>
 
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
