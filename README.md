@@ -11,9 +11,13 @@
 
 <img align="right" height="180em" src="https://user-images.githubusercontent.com/55896862/157664272-55b0134d-9899-4cfa-a00a-caf72758de64.svg" />
 
-Contact me on Twitter <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" />
+Connect with me:
+<img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157673543-2e1018f0-bb43-42dd-a40f-be99a38380c3.svg" />
+<!-- ![twitter](https://user-images.githubusercontent.com/55896862/157673543-2e1018f0-bb43-42dd-a40f-be99a38380c3.svg) -->
 
 
+
+<!--  Stats Section -->
 <a href="https://github.com/Abdullah-Ashehry/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry&show_icons=true&hide_border=true&&count_private=true&theme=algolia" />
 
