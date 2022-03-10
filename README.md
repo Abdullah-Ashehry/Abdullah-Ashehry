@@ -23,10 +23,11 @@ Connect with me:
 <img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157674355-d60a3a33-36f2-4d6d-ba1f-ebce7f1ad8dc.svg" />
 </a>
 <a>
-<img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157674362-c7010b48-7153-421d-b42a-7029e5a1bf22.svg" />
+<img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157675342-a78d65bf-7ac1-437e-9794-0ff58cb0c209.svg" />
 </a>
 
 
+<!-- ![medium (1)](https://user-images.githubusercontent.com/55896862/157675342-a78d65bf-7ac1-437e-9794-0ff58cb0c209.svg) -->
 
 
 
