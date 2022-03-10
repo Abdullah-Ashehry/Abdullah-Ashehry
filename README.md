@@ -12,9 +12,10 @@
 <img align="right" height="180em" src="https://user-images.githubusercontent.com/55896862/157664272-55b0134d-9899-4cfa-a00a-caf72758de64.svg" />
 
 Connect with me:
-<img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157673543-2e1018f0-bb43-42dd-a40f-be99a38380c3.svg" />
-<!-- ![twitter](https://user-images.githubusercontent.com/55896862/157673543-2e1018f0-bb43-42dd-a40f-be99a38380c3.svg) -->
+<img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157673717-af63e7d2-9561-481a-a3b1-838b9935aeeb.svg" />
 
+
+<!-- ![twitter (1)](https://user-images.githubusercontent.com/55896862/157673717-af63e7d2-9561-481a-a3b1-838b9935aeeb.svg) -->
 
 
 <!--  Stats Section -->
