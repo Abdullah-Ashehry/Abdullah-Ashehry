@@ -13,9 +13,13 @@
 
 Connect with me:
 <img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157673717-af63e7d2-9561-481a-a3b1-838b9935aeeb.svg" />
+<img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157674355-d60a3a33-36f2-4d6d-ba1f-ebce7f1ad8dc.svg" />
+<img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157674362-c7010b48-7153-421d-b42a-7029e5a1bf22.svg" />
 
 
 <!-- ![twitter (1)](https://user-images.githubusercontent.com/55896862/157673717-af63e7d2-9561-481a-a3b1-838b9935aeeb.svg) -->
+![linkedin](https://user-images.githubusercontent.com/55896862/157674355-d60a3a33-36f2-4d6d-ba1f-ebce7f1ad8dc.svg)
+![medium](https://user-images.githubusercontent.com/55896862/157674362-c7010b48-7153-421d-b42a-7029e5a1bf22.svg)
 
 
 <!--  Stats Section -->
