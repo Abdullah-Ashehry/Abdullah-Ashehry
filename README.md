@@ -15,6 +15,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Abdullah-Ashehry/github-readme-stats)
 
 Contact me on Twitter <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" />
 
