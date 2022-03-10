@@ -49,7 +49,7 @@ Programming Languages:
 <!--  Stats Section -->
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry&show_icons=true&hide_border=true&&count_private=true&theme=algolia" />
-<br><br>
+<br>
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Abdullah_Ashehry&theme=algolia&hide_border=true" />
