@@ -26,9 +26,25 @@ Connect with me:
 <img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157675342-a78d65bf-7ac1-437e-9794-0ff58cb0c209.svg" />
 </a>
 
+<!-- Programming Languages -->
 
-<!-- ![medium (1)](https://user-images.githubusercontent.com/55896862/157675342-a78d65bf-7ac1-437e-9794-0ff58cb0c209.svg) -->
-
+Programming Languages: 
+<a>
+<img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157676547-99319bff-ab28-42b2-a0e5-a2f2ebc41dda.svg" />
+</a>
+<a>
+<img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157676557-efe9b75c-ecf5-42c3-8adc-6b62be28a457.svg" />
+</a>
+<a>
+<img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157676567-8e05a3b5-a4bc-45ac-9e05-b55e649d5b29.svg" />
+</a>
+<a>
+<img height="32" width="32" src="https://user-images.githubusercontent.com/55896862/157676582-b1db23e6-e78e-4188-84ba-f458edf34d13.svg" />
+</a>
+<!-- ![javascript](https://user-images.githubusercontent.com/55896862/157676547-99319bff-ab28-42b2-a0e5-a2f2ebc41dda.svg)
+![java](https://user-images.githubusercontent.com/55896862/157676557-efe9b75c-ecf5-42c3-8adc-6b62be28a457.svg)
+![python](https://user-images.githubusercontent.com/55896862/157676567-8e05a3b5-a4bc-45ac-9e05-b55e649d5b29.svg)
+![flutter](https://user-images.githubusercontent.com/55896862/157676582-b1db23e6-e78e-4188-84ba-f458edf34d13.svg) -->
 
 
 <!--  Stats Section -->
