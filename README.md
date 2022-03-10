@@ -9,11 +9,9 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
+<img align="right" height="180em" src="https://user-images.githubusercontent.com/55896862/157664272-55b0134d-9899-4cfa-a00a-caf72758de64.svg" />
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehry)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Ashehryshow_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact me on Twitter <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" />
 
