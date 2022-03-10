@@ -51,7 +51,7 @@ Programming Languages:
 <br><br>
 </a>
 <a href="https://github.com/Abdullah-Ashehry/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Abdullah_Ashehry&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Abdullah_Ashehry&theme=algolia&hide_border=true" />
 </a>
 
 
