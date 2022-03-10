@@ -10,8 +10,6 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
 
-![undraw_Programming_re_kg9v](https://user-images.githubusercontent.com/55896862/157663213-2ee0547a-290e-4e69-8aac-2d9efddcd598.png)
-
 <img height="180em" src="https://user-images.githubusercontent.com/55896862/157663213-2ee0547a-290e-4e69-8aac-2d9efddcd598.png" />
 
 
