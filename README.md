@@ -3,12 +3,11 @@
 
 <!-- **Abdullah-Ashehry/Abdullah-Ashehry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am Abdullah Ashehry, Cross-Platform Developer, currently finishing my Bachelors in Software Engineering from King Fahd University for Petroleum and Minerals.
+I am Abdullah Ashehry, Cross-Platform Developer, with Bachelor's degree in Software Engineering from King Fahd University for Petroleum and Minerals.
 
-- 💼 I’m currently working as a part time developer with Jarna.
-- 🔭 I’m also currently working on my graduation project "Sandoq", which will be in Flutter and React and using serverless architucture with Firebase.
-- 🧑🏻‍💻 Currently with the amazing people in Google Developer Student Club in KFUPM and finishing up some great things.
-- 📚 I'm finishing up my Bachelor's and will be graduating in May "hopefully 😁" from the hardest university in the world "KFUPM".
+- 💼 I’m currently working as an Associate Consultant Intern @SoftwareAG.
+- 🔭 I’m also currently working on my portfolio, which will be in React and using serverless architucture with Firebase.
+- 🧑🏻‍💻 Currently learning about different Software AG products, and the amazing capabilities you can do with it.
 
 <img align="right" height="180em" src="https://user-images.githubusercontent.com/55896862/157664272-55b0134d-9899-4cfa-a00a-caf72758de64.svg" />
 
