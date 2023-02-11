@@ -5,7 +5,7 @@
 
 I am Abdullah Ashehry, Cross-Platform Developer, with Bachelor's degree in Software Engineering from King Fahd University for Petroleum and Minerals.
 
-- 💼 I’m currently working as an Associate Consultant Intern @SoftwareAG.
+- 💼 I’m currently working in IT RBWM @SABB.
 - 🔭 I’m also currently working on my portfolio, which will be in React and using serverless architucture with Firebase.
 - 🧑🏻‍💻 Currently learning about different Software AG products, and the amazing capabilities you can do with it.
 
